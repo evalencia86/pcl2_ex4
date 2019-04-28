@@ -34,7 +34,7 @@ def iter_comments(stream, min_score, min_len, max_len):
 
 def main():
     with bz2.open('Korpusdaten/RC_2012-06.bz2', 'rb') as corp_file:
-        mk_meme_corpus(corp_file, 'out_test.gz')
+        mk_meme_corpus(corp_file, 'abstract_output/out_11.gz')
 
 
 if __name__ == '__main__':
