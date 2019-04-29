@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 # Eva Bühlmann
-# 05-058-912
+# Sarah Kiener
 #
 # PCL II
 # Übung 4 - Aufgabe 1.2
