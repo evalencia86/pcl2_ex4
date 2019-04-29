@@ -1,5 +1,5 @@
 ﻿Reflexion/Feedback
 
-a) Ich fand es ziemlich schwierig, eine gute Lösung für die Verarbeitung der grossen Datenmengen bei Aufgabe 1.1 und 1.2 zu finden, da 'einfache' Herangehensweien, die ich bisher in solchen Fällen (für kleinere Datenmengen) angewendet hätte, nicht möglich waren. Da wir wohl in Zukunft oft mit grossen Datenmengen arbeiten werden, ist dies sicherlich sehr nützlich. 
+a) Wir fanden es ziemlich schwierig, eine gute Lösung für die Verarbeitung der grossen Datenmengen bei Aufgabe 1.1 und 1.2 zu finden, da 'einfache' Herangehensweien, die wir bisher in solchen Fällen (für kleinere Datenmengen) angewendet hätten, nicht möglich waren. Da wir wohl in Zukunft oft mit grossen Datenmengen arbeiten werden, ist dies aber sicherlich sehr nützlich. 
 
 b) ca. 18 Stunden
